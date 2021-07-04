@@ -1,0 +1,17 @@
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.exe
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.deps.json
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.runtimeconfig.json
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.runtimeconfig.dev.json
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.dll
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\bin\Debug\netcoreapp3.1\Tamagochi v2.0.pdb
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.csprojAssemblyReference.cache
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.csproj.GenerateResource.cache
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.AssemblyInfoInputs.cache
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.AssemblyInfo.cs
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.dll
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.pdb
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi v2.0.genruntimeconfig.cache
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi_v2._0.Properties.Resources.resources
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi_v2._0.TamagochiIsDead.resources
+C:\Users\Meloy\source\repos\Tamagochi v2.0\Tamagochi v2.0\obj\Debug\netcoreapp3.1\Tamagochi_v2._0.Tamagochi.resources
